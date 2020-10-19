@@ -10,8 +10,6 @@ import org.json.simple.parser.JSONParser;
 import steve.BikesExtension;
 import steve.step_definitions.RestAss.pojo.Bikes;
 import steve.step_definitions.RestAss.pojo.Locations;
-
-
 import java.util.*;
 
 public class BikeStepdefs {
