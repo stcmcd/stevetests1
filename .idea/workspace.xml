@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a854a3e-60af-4461-b18e-4beff2b685b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/RestAss/BikeStepdefs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/steve/step_definitions/VendingMachine/VendingUnitTests.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -20,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -50,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="357">
               <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -80,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="170" selection-start-line="170" selection-end-line="170" />
+            <state>
+              <caret column="3" selection-start-column="3" selection-end-column="3" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingMachine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
+            <state relative-caret-position="612">
               <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -277,6 +280,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -338,7 +342,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -574,9 +577,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 25m 05s.xml">
-      <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 25m 28s.xml">
       <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -604,26 +604,28 @@
     <history-entry file="Scenario__1__Verify_City_in_Country - 2020.10.19 at 17h 34m 58s.xml">
       <configuration name="Scenario: 1. Verify City in Country" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="Scenario__1__Verify_City_in_Country - 2020.10.19 at 18h 43m 05s.xml">
+      <configuration name="Scenario: 1. Verify City in Country" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="18" width="1817" height="1010" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5021097" side_tool="true" weight="0.18554354" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49942988" weight="0.17131475" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49942988" visible="true" weight="0.17131475" />
       <window_info id="Structure" order="6" sideWeight="0.5005701" side_tool="true" weight="0.16960728" />
       <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.49925372" weight="0.30216646" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32815966" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50074625" side_tool="true" weight="0.3297546" />
-      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3295325" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="4" visible="true" weight="0.3295325" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3295325" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.4777651" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.4777651" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.3477765" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1118,7 +1120,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
-          <line>94</line>
+          <line>98</line>
           <properties />
           <option name="timeStamp" value="360" />
         </line-breakpoint>
@@ -1677,6 +1679,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/RunCukesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1691,16 +1700,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Arrays1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="357">
           <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1708,9 +1710,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Arrays1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingMachine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
+        <state relative-caret-position="612">
           <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1748,18 +1757,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
