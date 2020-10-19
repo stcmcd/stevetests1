@@ -543,12 +543,12 @@
       <item itemvalue="Cucumber java.Feature: Bikes" />
       <item itemvalue="Cucumber java.Scenario: Find" />
       <item itemvalue="Cucumber java.Feature: Vending" />
+      <item itemvalue="Cucumber java.Scenario: 1. Verify City in Country" />
       <item itemvalue="JUnit.Denoninator" />
       <item itemvalue="JUnit.Lion" />
       <item itemvalue="JUnit.RunCukesTest" />
       <item itemvalue="JUnit.Unnamed" />
       <item itemvalue="JUnit.VendingUnitTests" />
-      <item itemvalue="Cucumber java.Scenario: 1. Verify City in Country" />
     </list>
     <recent_temporary>
       <list>

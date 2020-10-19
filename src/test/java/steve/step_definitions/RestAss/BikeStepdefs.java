@@ -1,7 +1,6 @@
 package steve.step_definitions.RestAss;
 
 import cucumber.api.DataTable;
-import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import io.restassured.response.Response;
 import io.restassured.response.ResponseOptions;
@@ -14,6 +13,11 @@ import steve.step_definitions.RestAss.pojo.Locations;
 
 
 import java.util.*;
+
+import static io.restassured.RestAssured.given;
+import static org.junit.Assert.assertEquals;
+
+
 
 public class BikeStepdefs {
     static ResponseOptions<Response> response;
