@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6a854a3e-60af-4461-b18e-4beff2b685b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,16 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="119">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-=======
-            <state relative-caret-position="187">
-              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
->>>>>>> Stashed changes
+            <state relative-caret-position="51">
+              <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -86,22 +80,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-            <state relative-caret-position="-92">
-              <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
+            <state relative-caret-position="527">
+              <caret line="170" selection-start-line="170" selection-end-line="170" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#733#764#0" expanded="true" />
-=======
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1251#1282#0" expanded="true" />
->>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
@@ -250,9 +235,9 @@
         <option value="$PROJECT_DIR$/src/main/java/steve/BikesExtension.java" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Extras.java" />
         <option value="$PROJECT_DIR$/src/test/resources/steve/features/Vending.feature" />
+        <option value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java" />
-        <option value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" />
       </list>
     </option>
@@ -400,6 +385,159 @@
     </option>
   </component>
   <component name="RunManager" selected="Cucumber java.Scenario: 1. Verify City in Country">
+    <configuration name="Feature: Bikes" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
+      <option name="GLUE" value="steve.step_definitions.RestAss cucumber.api.spring steve.framework" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SteveTests1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Bikes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Feature: Vending" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/steve/features/Vending.feature" />
+      <option name="GLUE" value="steve.step_definitions.RestAss cucumber.api.spring steve.framework" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SteveTests1" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <option name="SUGGESTED_NAME" value="Feature: Vending" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: 1. Verify City in Country" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
+      <option name="GLUE" value="steve.step_definitions.RestAss cucumber.api.spring steve.framework" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SteveTests1" />
+      <option name="NAME_FILTER" value="^1\. Verify City in Country$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^1\. Verify City in Country$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: 1. Verify City in Country" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Enter exact price for drink" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/steve/features/Vending.feature" />
+      <option name="GLUE" value="steve.step_definitions.RestAss cucumber.api.spring steve.framework" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SteveTests1" />
+      <option name="NAME_FILTER" value="^Enter exact price for drink$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Enter exact price for drink$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Enter exact price for drink" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Find" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
+      <option name="GLUE" value="steve.step_definitions.RestAss cucumber.api.spring steve.framework" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="SteveTests1" />
+      <option name="NAME_FILTER" value="^Find$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Find$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Find" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Denoninator" type="JUnit" factoryName="JUnit">
+      <module name="SteveTests1" />
+      <option name="PACKAGE_NAME" value="steve.step_definitions.Codility" />
+      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.Codility.Denominator" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lion" type="JUnit" factoryName="JUnit">
+      <module name="SteveTests1" />
+      <option name="PACKAGE_NAME" value="steve.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.Lion" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunCukesTest" type="JUnit" factoryName="JUnit">
+      <module name="SteveTests" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="steve.RunCukesTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="SteveTests1" />
+      <option name="PACKAGE_NAME" value="steve.step_definitions" />
+      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.CollectionsExamples" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VendingUnitTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SteveTests1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="steve.step_definitions.VendingMachine.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="steve.step_definitions.VendingMachine" />
+      <option name="MAIN_CLASS_NAME" value="steve.step_definitions.VendingMachine.VendingUnitTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Cucumber java.Scenario: Enter exact price for drink" />
       <item itemvalue="Cucumber java.Feature: Bikes" />
@@ -436,9 +574,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VendingUnitTests - 2020.10.18 at 18h 09m 22s.xml">
-      <configuration name="VendingUnitTests" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Scenario__Enter_exact_price_for_drink - 2020.10.18 at 19h 25m 05s.xml">
       <configuration name="Scenario: Enter exact price for drink" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -466,25 +601,29 @@
     <history-entry file="Scenario__Find - 2020.10.18 at 19h 35m 31s.xml">
       <configuration name="Scenario: Find" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
+    <history-entry file="Scenario__1__Verify_City_in_Country - 2020.10.19 at 17h 34m 58s.xml">
+      <configuration name="Scenario: 1. Verify City in Country" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="18" width="1817" height="1010" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5021097" side_tool="true" weight="0.18554354" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49942988" visible="true" weight="0.17131475" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49942988" weight="0.17131475" />
       <window_info id="Structure" order="6" sideWeight="0.5005701" side_tool="true" weight="0.16960728" />
       <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.32936078" />
       <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.49925372" weight="0.30216646" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32815966" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50074625" side_tool="true" weight="0.3297546" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="4" visible="true" weight="0.3295325" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3295325" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3295325" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.34207526" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.4777651" />
       <window_info anchor="bottom" id="Debug" order="8" weight="0.3477765" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -508,17 +647,17 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" sideWeight="0.5021097" side_tool="true" weight="0.18554354" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49942988" visible="true" weight="0.16960728" />
-      <window_info id="Structure" order="6" sideWeight="0.5005701" side_tool="true" weight="0.18554354" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49942988" visible="true" weight="0.17131475" />
+      <window_info id="Structure" order="6" sideWeight="0.5005701" side_tool="true" weight="0.16960728" />
       <window_info anchor="bottom" id="Dependency Viewer" order="0" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Messages" order="1" sideWeight="0.49925372" visible="true" weight="0.47434434" />
+      <window_info active="true" anchor="bottom" id="Messages" order="1" sideWeight="0.49925372" visible="true" weight="0.30216646" />
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.32815966" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.50074625" side_tool="true" weight="0.3297546" />
-      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="4" weight="0.3295325" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3295325" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.31242874" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.22919042" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.34207526" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3477765" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -979,11 +1118,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
-<<<<<<< Updated upstream
-          <line>36</line>
-=======
-          <line>51</line>
->>>>>>> Stashed changes
+          <line>94</line>
           <properties />
           <option name="timeStamp" value="360" />
         </line-breakpoint>
@@ -992,16 +1127,6 @@
           <line>39</line>
           <properties />
           <option name="timeStamp" value="365" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
-<<<<<<< Updated upstream
-          <line>47</line>
-=======
-          <line>80</line>
->>>>>>> Stashed changes
-          <properties />
-          <option name="timeStamp" value="367" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Vending/Machine.java</url>
@@ -1050,26 +1175,6 @@
           <line>36</line>
           <properties />
           <option name="timeStamp" value="399" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
-<<<<<<< Updated upstream
-          <line>167</line>
-=======
-          <line>178</line>
->>>>>>> Stashed changes
-          <properties />
-          <option name="timeStamp" value="405" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
-<<<<<<< Updated upstream
-          <line>61</line>
-=======
-          <line>106</line>
->>>>>>> Stashed changes
-          <properties />
-          <option name="timeStamp" value="406" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java</url>
@@ -1586,23 +1691,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
-    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingStepDefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-=======
-    <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
->>>>>>> Stashed changes
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/Arrays1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -1648,41 +1736,30 @@
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
-    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-92">
-          <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#733#764#0" expanded="true" />
-=======
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
+        <state relative-caret-position="272">
           <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
->>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
-    <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-=======
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="527">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1251#1282#0" expanded="true" />
           </folding>
->>>>>>> Stashed changes
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
         </state>
       </provider>
     </entry>
