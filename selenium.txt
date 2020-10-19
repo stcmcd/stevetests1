@@ -1,0 +1,51 @@
+public abstract class AbstractPage {
+
+private static final int DEFAULT_DRIVER_WAIT_TIME = 40; //seconds
+private static final int CUSTOM_CONFIG_MANAGER_WAIT_TIME = 3; //seconds
+
+public final int getDriverTimeout() {return DEFAULT_DRIVER_WAIT_TIME;}
+
+public WebElement waitForElementClickable(final By by) {
+	waitForJSLoadComplete();
+
+	Wait<WebDriver> wait = new WebDriverWait(getDriver(), getDriverTimeout());
+	return wait.until(ExpectedConditions.elementToBeClickable(by));
+}
+
+getdriver - 
+manage().deleteAllCookies()
+manage().getCookies().isEmpty()
+navigate().to(applicationURL)
+getCurrentUrl()
+get(url)
+navigate().refresh()
+findElements(by)
+getDriver().getPageSource().contains(text)
+!getDriver().findElements(by).isEmpty()
+getDriver().switchTo().alert()
+public JavascriptExecutor getJSExecutor() {return ((JavascriptExecutor) getDriver());}
+public boolean waitForJSLoadComplete() {
+	return ((Long) (getJSExecutor()).executeScript("return jQuery.active") == 0);
+manage().window().maximize();
+public void moveToElement(WebElement element) {
+	Actions builder = new Actions(getDriver());
+	builder.moveToElement(element).build().perform();}
+public void moveToElement(String xpath) {
+	Actions builder = new Actions(getDriver());
+	WebElement element = waitForElementVisible(By.xpath(xpath));
+	builder.moveToElement(element).build().perform();}
+getDriver().getWindowHandles().size()
+public void switchToNewWindowAndCloseCurrent() {
+	waitUntilMoreWindowsPresent(2);
+	String currentWindow = getDriver().getWindowHandle();
+
+	for (String window : getDriver().getWindowHandles()) {
+		if (!window.equals(currentWindow)) {
+			getDriver().close();
+			getDriver().switchTo().window(window);
+			getDriver().manage().window().maximize();
+		}	}	}
+public void doubleClickElementAndSendKeys(WebElement element, String message) {
+	Actions builder = new Actions(getDriver());
+	builder.doubleClick(element).sendKeys(element, message).sendKeys(Keys.ENTER).build().perform();	}
+

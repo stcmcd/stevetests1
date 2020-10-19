@@ -1,0 +1,26 @@
+{
+  "kind": "books#volume",
+  "id": "99",
+  "etag": "YyZxRYQh6kM",
+  "selfLink": "https://www.googleapis.com/books/v1/volumes/nvgdAwAAQBAJ",
+  "volumeInfo": {
+    "title": "Steve Jobs - 101 Amazing Facts You Didn't Know",
+    "subtitle": "Fun Facts and Trivia Tidbits Quiz Game Books",
+    "authors": [
+      "G Whiz"
+    ],
+    "publisher": "101BookFacts.com (pub-5999650418488591)",
+    "publishedDate": "2014-03-19",
+    "description": "Did you know the book cover the only part of the biography that Steve Jobs controled? Or, did you know Steve Jobs by Walter Isaacson is the only biography that broke the international sales records to become a global bestseller? What are the amazing facts of Steve Jobs by Walter Isaacson? Do you want to know the golden nuggets of facts readers love? If you've enjoyed the book, then this will be a must read delight for you! Collected for readers everywhere are 101 book facts about the book & author that are fun, down-to-earth, and amazingly true to keep you laughing and learning as you read through the book! Tips & Tricks to Enhance Reading Experience • Enter \"G Whiz\" after your favorite title to see if publication exists! ie) Harry Potter G Whiz • Enter \"G Whiz 101\" to search for entire catalogue! • Tell us what title you want next! • Combine your favorite titles to receive bundle coupons! • Submit a review and hop on the Wall of Contributors! “Get ready for fun, down-to-earth, and amazing facts that keep you laughing & learning!\" - G Whiz DISCLAIMER: This work is an unofficial derivative work not to be confused with the original title. It is a collection of facts from reputable sources generally known to the public with source URLs for further reading and enjoyment. Due to the nature of research, no content shall be deemed authoritative nor used for citation purposes. Refined and tested for quality, we provide a 100% satisfaction guarantee or your money back.",
+    "industryIdentifiers": [
+      {
+        "type": "ISBN_13",
+        "identifier": "9781497732032"
+      },
+      {
+        "type": "ISBN_10",
+        "identifier": "1497732034"
+      }
+    ]
+  }
+}

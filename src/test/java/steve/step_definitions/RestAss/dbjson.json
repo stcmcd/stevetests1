@@ -1,0 +1,218 @@
+{
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "nvgdAwAAQBAJ",
+      "etag": "YyZxRYQh6kM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nvgdAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Steve Jobs - 101 Amazing Facts You Didn't Know",
+        "subtitle": "Fun Facts and Trivia Tidbits Quiz Game Books",
+        "authors": [
+          "G Whiz"
+        ],
+        "publisher": "101BookFacts.com (pub-5999650418488591)",
+        "publishedDate": "2014-03-19",
+        "description": "Did you know the book cover the only part of the biography that Steve Jobs controled? Or, did you know Steve Jobs by Walter Isaacson is the only biography that broke the international sales records to become a global bestseller? What are the amazing facts of Steve Jobs by Walter Isaacson? Do you want to know the golden nuggets of facts readers love? If you've enjoyed the book, then this will be a must read delight for you! Collected for readers everywhere are 101 book facts about the book & author that are fun, down-to-earth, and amazingly true to keep you laughing and learning as you read through the book! Tips & Tricks to Enhance Reading Experience • Enter \"G Whiz\" after your favorite title to see if publication exists! ie) Harry Potter G Whiz • Enter \"G Whiz 101\" to search for entire catalogue! • Tell us what title you want next! • Combine your favorite titles to receive bundle coupons! • Submit a review and hop on the Wall of Contributors! “Get ready for fun, down-to-earth, and amazing facts that keep you laughing & learning!\" - G Whiz DISCLAIMER: This work is an unofficial derivative work not to be confused with the original title. It is a collection of facts from reputable sources generally known to the public with source URLs for further reading and enjoyment. Due to the nature of research, no content shall be deemed authoritative nor used for citation purposes. Refined and tested for quality, we provide a 100% satisfaction guarantee or your money back.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781497732032"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1497732034"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8U2oAAAAQBAJ",
+      "etag": "iNcPDFTBRaY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8U2oAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Steve Jobs",
+        "authors": [
+          "Walter Isaacson"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2011",
+        "description": "Draws on more than forty interviews with Steve Jobs, as well as interviews with family members, friends, competitors, and colleagues to offer a look at the co-founder and leading creative force behind the Apple computer company.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451648546"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451648545"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9s1CDwAAQBAJ",
+      "etag": "NZdu/LY3+lY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9s1CDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Focus On: 100 Most Popular 2010s Comedy-drama Films",
+        "authors": [
+          "Wikipedia contributors"
+        ],
+        "publisher": "e-artnow sro",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780684837710"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0684837714"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ms5CDwAAQBAJ",
+      "etag": "fsL9NdxBQf0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ms5CDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Focus On: 100 Most Popular 2010s Fantasy Films",
+        "authors": [
+          "Wikipedia contributors"
+        ],
+        "publisher": "e-artnow sro"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ts1CDwAAQBAJ",
+      "etag": "Vz4QDKovxvg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ts1CDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Focus On: 100 Most Popular 2010s Adventure Films",
+        "authors": [
+          "Wikipedia contributors"
+        ],
+        "publisher": "e-artnow sro"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2s1CDwAAQBAJ",
+      "etag": "uvWRAUHQafs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2s1CDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Focus On: 100 Most Popular American 3D Films",
+        "authors": [
+          "Wikipedia contributors"
+        ],
+        "publisher": "e-artnow sro"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "U9UgyWiCcrAC",
+      "etag": "YoqwFfoDPQA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/U9UgyWiCcrAC",
+      "volumeInfo": {
+        "title": "The Wise Men",
+        "subtitle": "Six Friends and the World They Made",
+        "authors": [
+          "Walter Isaacson",
+          "Evan Thomas"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "1997-06-04",
+        "description": "A captivating blend of personal biography and public drama, The Wise Men introduces the original best and brightest, leaders whose outsized personalities and actions brought order to postwar chaos: Averell Harriman, the freewheeling diplomat and Roosevelt's special envoy to Churchill and Stalin; Dean Acheson, the secretary of state who was more responsible for the Truman Doctrine than Truman and for the Marshall Plan than General Marshall; George Kennan, self-cast outsider and intellectual darling of the Washington elite; Robert Lovett, assistant secretary of war, undersecretary of state, and secretary of defense throughout the formative years of the Cold War; John McCloy, one of the nation's most influential private citizens; and Charles Bohlen, adroit diplomat and ambassador to the Soviet Union.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780684837710"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0684837714"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lnofAQAAIAAJ",
+      "etag": "qSsDIBy30PU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lnofAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Steve Jobs",
+        "subtitle": "The Journey is the Reward",
+        "authors": [
+          "Jeffrey S. Young"
+        ],
+        "publisher": "Scott Foresman Trade",
+        "publishedDate": "1988",
+        "description": "This biography of the life and career of the man who started the computer revolution provides insights into his early life and formative influences, his personality, his management style and business practices, and his rise to fame and fortune",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105040702008"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E5a9BiJFPhEC",
+      "etag": "sEdPiHdz4iU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E5a9BiJFPhEC",
+      "volumeInfo": {
+        "title": "The Bite in the Apple",
+        "subtitle": "A Memoir of My Life with Steve Jobs",
+        "authors": [
+          "Chrisann Brennan"
+        ],
+        "publisher": "St. Martin's Press",
+        "publishedDate": "2013-10-29",
+        "description": "An intimate look at the life of Steve Jobs by the mother of his first child providing rare insight into Jobs's formative, lesser-known years Steve Jobs was a remarkable man who wanted to unify the world through technology. For him, the point was to set people free with tools to explore their own unique creativity. Chrisann Brennan knows this better than anyone. She met him in high school, at a time when Jobs was passionately aware that there was something much bigger to be had out of life, and that new kinds of revelations were within reach. The Bite in the Apple is the very human tale of Jobs's ascent and the toll it took, told from the author's unique perspective as his first girlfriend, co-parent, friend, and—like many others—object of his cruelty. Brennan writes with depth and breadth, and she doesn't buy into all the hype. She talks with passion about an idealistic young man who was driven to change the world, about a young father who denied his own child, and about a man who mistook power for love. Chrisann Brennan's intimate memoir provides the reader with a human dimension to Jobs' myth. Finally, a book that reveals a more real Steve Jobs.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781250038777"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1250038774"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "11rodG3ZF60C",
+      "etag": "jba73VFS5g8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/11rodG3ZF60C",
+      "volumeInfo": {
+        "title": "Insanely Simple",
+        "subtitle": "The Obsession That Drives Apple's Success",
+        "authors": [
+          "Ken Segall"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2012-04-26",
+        "description": "'Simple can be harder than complex. You have to work hard to get your thinking clean to make it simple. But it's worth it in the end, because once you get there, you can move mountains' Steve Jobs, BusinessWeek, May 25, 1998 To Steve Jobs, Simplicity wasn't just a design principle. It was a religion and a weapon. The obsession with Simplicity is what separates Apple from other technology companies. It's what helped Apple recover from near death in 1997 to become the most valuable company on Earth in 2011, and guides the way Apple is organized, how it designs products, and how it connects with customers. It's by crushing the forces of Complexity that the company remains on its stellar trajectory. As creative director, Ken Segall played a key role in Apple's resurrection, helping to create such critical campaigns as 'Think Different' and naming the iMac. Insanely Simple is his insider's view of Jobs' world. It reveals the ten elements of Simplicity that have driven Apple's success - which you can use to propel your own organisation. Reading Insanely Simple, you'll be a fly on the wall inside a conference room with Steve Jobs, and on the receiving end of his midnight phone calls. You'll understand how his obsession with Simplicity helped Apple perform better and faster.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780670921201"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0670921203"
+          }
+        ]
+      }
+    }
+  ]
+}
