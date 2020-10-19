@@ -14,11 +14,6 @@ import steve.step_definitions.RestAss.pojo.Locations;
 
 import java.util.*;
 
-import static io.restassured.RestAssured.given;
-import static org.junit.Assert.assertEquals;
-
-
-
 public class BikeStepdefs {
     static ResponseOptions<Response> response;
     static BikesExtension bikesExtension  = new BikesExtension();
