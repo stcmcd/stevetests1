@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6a854a3e-60af-4461-b18e-4beff2b685b5" name="Default Changelist" comment="" />
+    <list default="true" id="6a854a3e-60af-4461-b18e-4beff2b685b5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,8 +24,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="119">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
+=======
+            <state relative-caret-position="187">
+              <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+>>>>>>> Stashed changes
             </state>
           </provider>
         </entry>
@@ -81,11 +89,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="-92">
               <caret line="139" column="36" selection-start-line="139" selection-start-column="36" selection-end-line="139" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#733#764#0" expanded="true" />
+=======
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1251#1282#0" expanded="true" />
+>>>>>>> Stashed changes
               </folding>
             </state>
           </provider>
@@ -233,11 +249,11 @@
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingMachine.java" />
         <option value="$PROJECT_DIR$/src/main/java/steve/BikesExtension.java" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/pojo/Extras.java" />
-        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" />
         <option value="$PROJECT_DIR$/src/test/resources/steve/features/Vending.feature" />
-        <option value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingStepDefs.java" />
         <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingMachine/VendingUnitTests.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java" />
       </list>
     </option>
   </component>
@@ -963,7 +979,11 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
+<<<<<<< Updated upstream
           <line>36</line>
+=======
+          <line>51</line>
+>>>>>>> Stashed changes
           <properties />
           <option name="timeStamp" value="360" />
         </line-breakpoint>
@@ -975,7 +995,11 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
+<<<<<<< Updated upstream
           <line>47</line>
+=======
+          <line>80</line>
+>>>>>>> Stashed changes
           <properties />
           <option name="timeStamp" value="367" />
         </line-breakpoint>
@@ -1029,13 +1053,21 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
+<<<<<<< Updated upstream
           <line>167</line>
+=======
+          <line>178</line>
+>>>>>>> Stashed changes
           <properties />
           <option name="timeStamp" value="405" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java</url>
+<<<<<<< Updated upstream
           <line>61</line>
+=======
+          <line>106</line>
+>>>>>>> Stashed changes
           <properties />
           <option name="timeStamp" value="406" />
         </line-breakpoint>
@@ -1554,6 +1586,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingStepDefs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -1561,6 +1594,12 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
@@ -1609,6 +1648,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-92">
@@ -1616,14 +1656,33 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#733#764#0" expanded="true" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/VendingStepDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+>>>>>>> Stashed changes
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/test/resources/steve/features/Bikes.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/test/java/steve/step_definitions/RestAss/BikeStepdefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1251#1282#0" expanded="true" />
+          </folding>
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
